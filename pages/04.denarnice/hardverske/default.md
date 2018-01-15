@@ -11,6 +11,8 @@ visible: true
 - Namestitev: [https://www.youtube.com/watch?v=PwWr9RT0nN4](https://www.youtube.com/watch?v=PwWr9RT0nN4)
 <img src="https://www.ledgerwallet.com/images/products/lns/ledger-nano-s-large.png" width="150" style="margin: 1em 0">
 
+*Cene so zaradi izjemnega povpraševanje poskočile 2-3x
+
 ### Trezor
 - Uradna stran: [https://trezor.io/](https://trezor.io/)
 - Podprti kovanci: [https://doc.satoshilabs.com/trezor-faq/overview.html#which-coins-are-currently-supported](https://doc.satoshilabs.com/trezor-faq/overview.html#which-coins-are-currently-supported)
